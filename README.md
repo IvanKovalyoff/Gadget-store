@@ -92,4 +92,6 @@ The project is automatically built and deployed to GitHub Pages using GitHub Act
 
 ## Author
 **Ivan Kovalyoff**
-GitHub: https://github.com/IvanKovalyoff
+ - GitHub: https://github.com/IvanKovalyoff
+ - LinkedIn: www.linkedin.com/in/ivan-kovalov-197759348
+ 
